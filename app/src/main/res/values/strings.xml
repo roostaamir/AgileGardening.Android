@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GardeningApp</string>
+    <string name="request_endpoint">LINK_TO_SERVER_API_ROOT</string>
+</resources>
