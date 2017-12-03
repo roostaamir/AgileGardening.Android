@@ -5,3 +5,5 @@ A user will take a picture with his/her camera, and then using [Clarifai](https:
 ## 
 #### Click on the picture below to see a demo video of the project
 [![Demo Video](https://img.youtube.com/vi/rd8es5IFekQ/0.jpg)](https://www.youtube.com/watch?v=rd8es5IFekQ)
+
+### [The server project can be found here](https://github.com/roostaamir/AgileGardening.Server) 
